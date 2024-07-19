@@ -7,6 +7,7 @@
 
 ## Overview of project
 ### project:SIMPlE CALCULATOR using java programming languagge
+## output of the simple calculator
 ![Screenshot (8)](https://github.com/user-attachments/assets/6c5acd3c-34d5-40ad-b12f-10547295c2e1)
 
 
